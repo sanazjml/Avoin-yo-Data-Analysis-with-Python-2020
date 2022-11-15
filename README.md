@@ -4,4 +4,4 @@ Here is the final project of Data Analysis with Python 2020 course at Open Unive
 
 https://csmastersuh.github.io/data_analysis_with_python_2020/project.html#regression-analysis 
 
-and also introduction to the regression analysis project as attached file "introduction-to-regression-analysis.pdf". My conducted project solution is attached as "project_notebook_regression_analysis.ipynb".
+and also introduction to the regression analysis project as the attached file. My conducted project solution is attached as "project_notebook_regression_analysis.ipynb".
